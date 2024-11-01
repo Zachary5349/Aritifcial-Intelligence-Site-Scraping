@@ -1,4 +1,4 @@
-# Site Scraping
+# Website Scraping
 
 ## A fully functional site scraping program that uses twikit to obtain information, a SQL server to store information, and then visualizes the information with Tableau.
 
